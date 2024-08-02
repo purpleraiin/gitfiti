@@ -112,4 +112,19 @@
 - Focus on modern, maintainable systems.
 - Efficient use of engineering resources.
 
-These points cover a range of leading practices, key considerations, and key benefits that can guide your team towards a more robust and efficient SRE implementation.
+
+
+ Implement Proactive Log Monitoring
+
+Leading Practice:
+
+Implement a proactive log monitoring system that automatically detects anomalies and potential issues before they impact users.
+Key Considerations:
+
+Choose a robust log monitoring tool like Splunk, ELK, or Azure Monitor that supports real-time log analysis and alerting.
+Configure the monitoring system to recognize patterns and anomalies that indicate potential issues.
+Key Benefits:
+
+Early detection of issues can prevent user impact and reduce downtime.
+Automated monitoring reduces the manual effort required to identify and resolve issues.
+Provides continuous insights into application performance and health.
