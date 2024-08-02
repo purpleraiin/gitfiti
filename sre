@@ -147,5 +147,17 @@ Improved Performance: Continuous monitoring and proactive alerting help maintain
 
 
 
+Leading Practice:
+Automate log cleanup using Azure Functions or Logic Apps.
 
+Key Considerations:
+Scheduling: Set cleanup intervals.
+Integration: Link with logging systems.
+Error Handling: Alert for failures.
+Security: Ensure safe data handling.
+Key Benefits:
+Consistency: Regularly clears old logs.
+Efficiency: Reduces manual cleanup.
+Cost Savings: Lowers storage costs.
+Compliance: Meets retention policies.
 
